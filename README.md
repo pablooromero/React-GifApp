@@ -2,7 +2,6 @@
 
 Aplicación realizada con Rect que sirve para buscar Gifs desde la api de Giphy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

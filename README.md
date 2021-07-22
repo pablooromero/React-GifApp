@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# GIF APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación realizada con Rect que sirve para buscar Gifs desde la api de Giphy
+
 
 ## Available Scripts
 
